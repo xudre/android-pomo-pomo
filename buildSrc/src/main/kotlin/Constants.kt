@@ -7,7 +7,7 @@ object Constants {
     const val buildToolsVersion = "30.0.3"
     val javaVersion = JavaVersion.VERSION_1_8
 
-    const val gradleToolsVersion = "7.0.0-beta05"
+    const val gradleToolsVersion = "7.0.0-rc01"
     const val kotlinVersion = "1.4.32"
     const val koinVersion = "3.1.2"
     const val composeVersion = "1.0.0-rc01"
